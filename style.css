@@ -195,6 +195,10 @@ main .profile{
     height: 300px;
 }
 
+.cover {
+    max-height: 300px;
+}
+
 .profile-image{
     position: relative;
     height: 84px;
